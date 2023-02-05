@@ -9,12 +9,11 @@ Nesse projeto eu usei das bibliotecas:
 + Numpy
 + Matplotlib
 + Seaborn
-+ Geopandas -- para criação de mapas)
++ Geopandas -- para criação de mapas
 + Sidrapy -- biblioteca especifica para retirar dados do https://sidra.ibge.gov.br/home/pnadct/brasil
 
 Tive como objetivo juntar a minha área de formação (ciência econômica) com o conhecimento adquirido no curso de DataScience, sendo assim
-venho através desse notebook apresentar o preço da gasolina na região imediata de Ilhéus-Itabuna durante 2004 - 2021 (valores cogiridos 
-com base nos preços de outubro de 2021).
+venho através desse notebook apresentar o preço da gasolina na região imediata de Ilhéus-Itabuna durante 2004 - 2021, trazendo os valores cogiridos com base nos preços de outubro de 2021.
 
 <h1> Dados Utilizados </h1>
 
